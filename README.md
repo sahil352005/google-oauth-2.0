@@ -1,4 +1,3 @@
-Here's a README that will help users understand how to set up and run this Google OAuth authentication app:
 
 ---
 
@@ -35,7 +34,7 @@ To run this project, you'll need:
 ### Step 2: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/sahil352005/google-oauth-2.0.git
 cd your-repo-name
 ```
 
@@ -61,7 +60,7 @@ GOOGLE_CLIENT_SECRET=your-client-secret
 Start the server with the following command:
 
 ```bash
-node index.js
+npm start
 ```
 
 The server should now be running at `http://localhost:3000`.
