@@ -35,7 +35,7 @@ To run this project, you'll need:
 
 ```bash
 git clone https://github.com/sahil352005/google-oauth-2.0.git
-cd your-repo-name
+cd google-oauth-2.0
 ```
 
 ### Step 3: Install Dependencies
